@@ -1,0 +1,12 @@
+{
+    "name": "bugfix",
+    "author": "Dawn / JKQ / Caali / Pinkie Pie",
+    "description": "Collection of mods that fix some of the most severe client bugs in TERA.",
+    "version": "1.3",
+    "options": {
+        "cliName": "Bugfix",
+        "guiName": "Bugfix"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-classic-toolbox/bugfix/main/"],
+    "conflicts": ["swim-fix", "chat-sanitizer"]
+}
